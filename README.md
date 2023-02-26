@@ -227,7 +227,7 @@ Overall, I would highly recommend the LETSGROWMORE internship program to any stu
 
 
 
-                                                    `Thank You`                                                                                
+                                             `Thank You`                                            
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
