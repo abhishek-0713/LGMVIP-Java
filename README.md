@@ -3,8 +3,10 @@
 
 <img src="https://user-images.githubusercontent.com/105943862/221399107-adbb0569-ac42-4695-8d04-4ed49c937821.png" alt="LetsGrowMore" width = "50%" align=right > 
 
+Welcome to LetsGrowMore's Java Projects repository.
+This repository contains three Java projects, including a beginner-level Tic-Tac-Toe game, an intermediate-level scientific calculator, and an advanced-level text editor. These projects are designed to help you improve your Java programming skills and showcase your knowledge.
 
-This repository contains three Java projects, including a beginner-level Tic-Tac-Toe game, an intermediate-level scientific calculator, and an advanced-level text editor. These projects use various Java technologies such as Java Swing, Java AWT, OOPS, JTextArea, JMenuBar, JMenu, and JMenuItems.
+These projects use various Java technologies such as Java Swing, Java AWT, OOPS, JTextArea, JMenuBar, JMenu, and JMenuItems.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +37,6 @@ This repository contains three Java projects, including a beginner-level Tic-Tac
 
 
 </br></br>
-</br></br></br></br>
 
 ## Projects
 ### Beginner Level 
