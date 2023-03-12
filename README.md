@@ -36,7 +36,7 @@ These projects use various Java technologies such as Java Swing, Java AWT, OOPS,
   </ol>
 </details>
 
-</br></br>
+</br>
 
 ## Projects
 ### Beginner Level 
