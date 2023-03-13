@@ -34,6 +34,7 @@ These projects use various Java technologies such as Java Swing, Java AWT, OOPS,
     <li><a href="#contact">Contact</a></li>
     <li><a href="#about-internship">About Internship</a></li>
   </ol>
+  
 </details>
 
 </br>
