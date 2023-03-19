@@ -72,9 +72,13 @@ The person who founds the line is the winner of the game.
 #### Conclusion
 This project is a great way to learn the basics of Java, Java Swing, Java GUI, and JFrame. It is a fun game that you can play with your friends and family.
 
-
 </br>
 
+### Beginner Level 
+`Currency Convertor`
+
+
+</br>
 
 ### Intermediate Level 
 `Scientific Calculator`
