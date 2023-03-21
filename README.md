@@ -77,6 +77,14 @@ This project is a great way to learn the basics of Java, Java Swing, Java GUI, a
 ### Beginner Level 
 `Currency Convertor`
 
+#### Technologies Used
+- Java
+- Java Swing
+- Java AWT
+- Object-Oriented Programming
+
+``Currency Convertor``
+
 
 </br>
 
